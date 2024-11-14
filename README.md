@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+💻 Pila de tecnología:
+C++ CSS3 Java JavaScript PHP Shell Script HTML5 GithubPages .Net Chart.js P5js JWT Web3.js Webpack Apache NodeJS
 <!--
 **yughiyami/yughiyami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
