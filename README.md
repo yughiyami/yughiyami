@@ -61,10 +61,11 @@
 </details>
 
 ---
+### 💼 Curious to know more about me? 
 
-> Curious to know more about me? Visit my web portfolio and CV :
-> [My Portfolio](https://a/)
-> [Check out my resume!](https://a/)
+>🌐 Visit my [**Web Portfolio**](https://a/) 
+
+>📄 [**Check out my Resume!**](https://a/) 
 
 
 <!--horizontal divider(gradiant)-->
@@ -72,8 +73,13 @@
 
 ## 📝Today's developer quotes :
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Readme Quotes">
+  </a>
+</div>
 
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -150,22 +156,23 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href=""><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href=""><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href=""><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href=""><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-enrique-marron-carcausto-84229925b/"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/yughiyami"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/danielmarronc/"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href=""><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="1"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-  <a href="_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+  <a href="mailto:dmarron@unsa.edu.pe"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/Yugiyami20"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+  <a href="https://x.com/Danielmarron19">
+  <img alt="X" title="Jaydeep Yadav X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+ </p>
 
 
 ## 📜 &nbsp;My Articles
 
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)]()
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmarron_33583)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://es.quora.com/profile/DANIEL-ENRIQUE-MARRON-CARCAUSTO)
 
 ## 💰 &nbsp;Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dmarronv) 
@@ -173,10 +180,11 @@
 
 
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=yughiyami&icon=5&color=3)](https://visitcount.itsvg.in)
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
