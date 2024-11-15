@@ -62,7 +62,9 @@
 
 ---
 
-> Curious to know more about me? Visit my web portfolio:[My Portfolio](https://a/)  [Check out my resume!](https://a/)
+> Curious to know more about me? Visit my web portfolio and CV :
+> [My Portfolio](https://a/)
+> [Check out my resume!](https://a/)
 
 
 <!--horizontal divider(gradiant)-->
