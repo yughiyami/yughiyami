@@ -164,7 +164,7 @@
   <a href="mailto:dmarron@unsa.edu.pe"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/Yugiyami20"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   <a href="https://x.com/Danielmarron19">
-  <img alt="X" title="Jaydeep Yadav X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  <img alt="twitter" title="Jaydeep Yadav X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
  </p>
 
