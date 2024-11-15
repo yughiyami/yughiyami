@@ -17,13 +17,13 @@
 
 💻 I am a self-taught Cybersecurity enthusiast, Full Stack Developer, and Machine Learning Developer.  
 🚩 CTF player with a passion for hacking and defense!
+
 📚 I am currently studying Systems Engineering at the University of San Agustin in Peru.  
 📝 I have a strong interest in Pentesting, Data Science, and Artificial Intelligence.  
 🌱 Always learning about diverse technologies and keeping up with the latest trends.  
 🌟 Main languages: Python, Java  
 🚀 I’m currently looking for an internship or new job opportunity. [Check out my resume!](#)
 
-> Curious to know more about me? Visit my web portfolio: [My Portfolio](https://a/)
 
 </details>
 
@@ -34,13 +34,13 @@
 
 💻 Soy un entusiasta autodidacta de la Ciberseguridad, Desarrollador Full Stack y Desarrollador de Machine Learning.  
 🚩 Jugador de CTF apasionado por el hacking y la defensa.
+
 📚 Actualmente estudio Ingeniería de Sistemas en la Universidad de San Agustín en Perú.  
 📝 Tengo un gran interés en el Pentesting, la Ciencia de Datos y la Inteligencia Artificial.  
 🌱 Siempre aprendiendo sobre tecnologías diversas y manteniéndome al día con las últimas tendencias.  
 🌟 Lenguajes principales: Python, Java  
 🚀 Estoy buscando una pasantía o una nueva oportunidad laboral. [¡Mira mi currículum!](#)
 
-> ¿Quieres conocerme más? Visita mi portafolio web: [Mi Portafolio](https://ao/)
 
 </details>
 
@@ -57,11 +57,12 @@
 🌟 Langages principaux : Python, Java  
 🚀 Je suis à la recherche d'un stage ou d'une nouvelle opportunité professionnelle. [Découvrez mon CV !](#)
 
-> Curieux d'en savoir plus ? Visitez mon portfolio web : [Mon Portfolio](https://a/)
 
 </details>
 
 ---
+
+> Curious to know more about me? Visit my web portfolio:[My Portfolio](https://a/)  [Check out my resume!](https://a/)
 
 
 <!--horizontal divider(gradiant)-->
@@ -149,15 +150,13 @@
 <p align="center">
   <a href=""><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href=""><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href=""><img alt="Bad Boy Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
   <a href=""><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href=""><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href=""><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="1"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href=""><img alt="Qwiklabs" title="Jaydeep Yadav Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+  <a href="_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 
@@ -167,7 +166,7 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)]()
 
 ## 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dmarronv) 
 
 
 
