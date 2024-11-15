@@ -135,12 +135,42 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yughiyami&theme=dark&hide_border=false"/>
 </p>
 
-
+<!--
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=yughiyami&theme=react-dark&hide_border=true&area=true)
+
+-->
 
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+##🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href=""><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=""><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href=""><img alt="Bad Boy Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
+  <a href=""><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href=""><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href=""><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="1"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href=""><img alt="Qwiklabs" title="Jaydeep Yadav Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+</p>
+
+
+## 📜 &nbsp;My Articles
+
+[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)]()
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)]()
+
+## 💰 &nbsp;Support My Work
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() 
+
+
+
 
 
 ---
