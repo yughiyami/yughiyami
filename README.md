@@ -142,7 +142,8 @@
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yughiyami&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yughiyami&theme=dark" alt="GitHub Streak" /></a>
 </p>
 <!--
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=yughiyami&theme=react-dark&hide_border=true&area=true)
