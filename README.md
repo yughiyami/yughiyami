@@ -133,7 +133,7 @@
 ## 📊  &nbsp;GitHub Analytics:
 <p align="center">
   <a href="https://github.com/yughiyami">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yughiyami&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yughiyami&theme=dark&hide_border=false&count_private=false&show_icons=true"/>
   </a>
   <a href="https://github.com/yughiyami">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yughiyami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
