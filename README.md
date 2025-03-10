@@ -22,7 +22,7 @@
 📝 I have a strong interest in Pentesting, Data Science, and Artificial Intelligence.  
 🌱 Always learning about diverse technologies and keeping up with the latest trends.  
 🌟 Main languages: Python, Java  
-🚀 I’m currently looking for an internship or new job opportunity. [Check out my resume!](https://drive.google.com/file/d/1bICRIquCCqHUH6hfc_KJ2gmYsBpbWdDF/view?usp=drive_link)
+🚀 I’m currently looking for an internship or new job opportunity. [Check out my resume!](https://drive.google.com/drive/u/0/folders/1b70we65tWjApk596c6lMEmlZqEoHqQHu)
 
 
 </details>
@@ -39,7 +39,7 @@
 📝 Tengo un gran interés en el Pentesting, la Ciencia de Datos y la Inteligencia Artificial.  
 🌱 Siempre aprendiendo sobre tecnologías diversas y manteniéndome al día con las últimas tendencias.  
 🌟 Lenguajes principales: Python, Java  
-🚀 Estoy buscando una pasantía o una nueva oportunidad laboral. [¡Mira mi currículum!](https://drive.google.com/file/d/1bICRIquCCqHUH6hfc_KJ2gmYsBpbWdDF/view?usp=drive_link)
+🚀 Estoy buscando una pasantía o una nueva oportunidad laboral. [¡Mira mi currículum!](https://drive.google.com/drive/u/0/folders/1b70we65tWjApk596c6lMEmlZqEoHqQHu)
 
 
 </details>
@@ -55,7 +55,7 @@
 📝 J'ai un fort intérêt pour le Pentesting, la Science des Données et l'Intelligence Artificielle.  
 🌱 Toujours en train d'apprendre de nouvelles technologies et de suivre les dernières tendances.  
 🌟 Langages principaux : Python, Java  
-🚀 Je suis à la recherche d'un stage ou d'une nouvelle opportunité professionnelle. [Découvrez mon CV !](https://drive.google.com/file/d/1bICRIquCCqHUH6hfc_KJ2gmYsBpbWdDF/view?usp=drive_link)
+🚀 Je suis à la recherche d'un stage ou d'une nouvelle opportunité professionnelle. [Découvrez mon CV !](https://drive.google.com/drive/u/0/folders/1b70we65tWjApk596c6lMEmlZqEoHqQHu)
 
 
 </details>
@@ -65,7 +65,7 @@
 
 >🌐 Visit my [**Web Portfolio**](https://a/) 
 
->📄 [**Check out my Resume!**](https://drive.google.com/file/d/1bICRIquCCqHUH6hfc_KJ2gmYsBpbWdDF/view?usp=drive_link) 
+>📄 [**Check out my Resume!**](https://drive.google.com/drive/u/0/folders/1b70we65tWjApk596c6lMEmlZqEoHqQHu) 
 
 
 <!--horizontal divider(gradiant)-->
