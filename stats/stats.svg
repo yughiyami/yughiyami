@@ -1,14 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="325" height="207" viewBox="0 0 325 207" role="img" aria-label="Daniel's GitHub stats">
-  <rect x="0.5" y="0.5" width="324" height="206" rx="6" fill="#1a1b27" stroke="#2b2d3f"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="155" viewBox="0 0 325 155" role="img" aria-label="Daniel's GitHub stats">
+  <rect x="0.5" y="0.5" width="324" height="154" rx="6" fill="#1a1b27" stroke="#2b2d3f"/>
   <text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Daniel's GitHub stats</text>
   <text x="25" y="72" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#38bdae">Public repositories</text>
   <text x="300" y="72" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">60</text>
   <text x="25" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#38bdae">Commits (public repos)</text>
-  <text x="300" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">275</text>
-  <text x="25" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#38bdae">Pull requests</text>
-  <text x="300" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">25</text>
-  <text x="25" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#38bdae">Issues</text>
-  <text x="300" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">6</text>
-  <text x="25" y="176" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#38bdae">Stars earned</text>
-  <text x="300" y="176" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">0</text>
+  <text x="300" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">276</text>
+  <text x="25" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#38bdae">Stars earned</text>
+  <text x="300" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">0</text>
 </svg>
