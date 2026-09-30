@@ -1,209 +1,151 @@
-
-
-<h1 align="center"><b>Hi , I'm Daniel Marron </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&width=555&lines=Bienvenue+dans+mon+monde+;A+passionate+Self-taught+Front-end+developer;CTF+Player;ActiveLearner%2FResearcher;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
-</p>
-<br>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<details>
-<summary>💫 About Me | English:</summary>
-
-💻 I am a self-taught Cybersecurity enthusiast, Full Stack Developer, and Machine Learning Developer.  
-🚩 CTF player with a passion for hacking and defense!
-
-📚 I am currently studying Systems Engineering at the University of San Agustin in Peru.  
-📝 I have a strong interest in Pentesting, Data Science, and Artificial Intelligence.  
-🌱 Always learning about diverse technologies and keeping up with the latest trends.  
-🌟 Main languages: Python, Java  
-🚀 I’m currently looking for an internship or new job opportunity. [Check out my resume!](https://drive.google.com/file/d/1iRgiC_WXrlsPTumRc3dHTg2LZStrzsXi/view?usp=sharing)
-
-
-</details>
-
----
-
-<details>
-<summary>💫 Sobre Mí | Español:</summary>
-
-💻 Soy un entusiasta autodidacta de la Ciberseguridad, Desarrollador Full Stack y Desarrollador de Machine Learning.  
-🚩 Jugador de CTF apasionado por el hacking y la defensa.
-
-📚 Actualmente estudio Ingeniería de Sistemas en la Universidad de San Agustín en Perú.  
-📝 Tengo un gran interés en el Pentesting, la Ciencia de Datos y la Inteligencia Artificial.  
-🌱 Siempre aprendiendo sobre tecnologías diversas y manteniéndome al día con las últimas tendencias.  
-🌟 Lenguajes principales: Python, Java  
-🚀 Estoy buscando una pasantía o una nueva oportunidad laboral. [¡Mira mi currículum!](https://drive.google.com/file/d/1iRgiC_WXrlsPTumRc3dHTg2LZStrzsXi/view?usp=sharing)
-
-
-</details>
-
----
-
-<details>
-<summary>💫 À Propos de Moi | Français:</summary>
-
-💻 Je suis un passionné autodidacte de la cybersécurité, développeur Full Stack et développeur en Machine Learning.  
-🚩 Joueur de CTF, passionné par le hacking et la défense !
-📚 J'étudie actuellement l'Ingénierie des Systèmes à l'Université de San Agustin au Pérou.  
-📝 J'ai un fort intérêt pour le Pentesting, la Science des Données et l'Intelligence Artificielle.  
-🌱 Toujours en train d'apprendre de nouvelles technologies et de suivre les dernières tendances.  
-🌟 Langages principaux : Python, Java  
-🚀 Je suis à la recherche d'un stage ou d'une nouvelle opportunité professionnelle. [Découvrez mon CV !](https://drive.google.com/file/d/1iRgiC_WXrlsPTumRc3dHTg2LZStrzsXi/view?usp=sharing)
-
-
-</details>
-
----
-### 💼 Curious to know more about me? 
-
->🌐 Visit my [**Web Portfolio**](https://a/) 
-
->📄 [**Check out my Resume!**](https://drive.google.com/file/d/1iRgiC_WXrlsPTumRc3dHTg2LZStrzsXi/view?usp=sharing) 
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📝Today's developer quotes :
-
+<!-- Header banner -->
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Readme Quotes">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F76C6C,100:1F2937&height=200&section=header&text=Daniel%20Marron&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20Full%20Stack%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=18" alt="Daniel Marron banner" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=F76C6C&center=true&vCenter=true&width=640&lines=Hola+%C2%B7+Hello+%C2%B7+Bonjour+%F0%9F%91%8B;Self-taught+Cybersecurity+enthusiast;Full+Stack+%26+Machine+Learning+developer;CTF+player+%C2%B7+Active+learner+%C2%B7+Researcher;Open+to+internships+and+new+opportunities" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/daniel-enrique-marron-carcausto-84229925b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dmarron@unsa.edu.pe"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/Yugiyami20"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/Danielmarron19"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/danielmarronc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://medium.com/@dmarron_33583"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://drive.google.com/file/d/1iRgiC_WXrlsPTumRc3dHTg2LZStrzsXi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-F76C6C?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <!-- TODO: add your portfolio badge once you have the real URL:
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  -->
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
+## 👨‍💻 About me
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+```python
+class DanielMarron:
+    role      = ["Cybersecurity enthusiast", "Full Stack Developer", "ML Developer"]
+    studying  = "Systems Engineering @ Universidad Nacional de San Agustín (Peru)"
+    languages = ["Python", "Java"]
+    interests = ["Pentesting", "Data Science", "Artificial Intelligence"]
+    playing   = "CTFs 🚩 (offense and defense)"
+    looking_for = "Internship / junior opportunities"
 
-## 🛠 &nbsp;Tech Stack:
-![Kali Linux](https://img.shields.io/badge/KaliLinux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
-![Wireshark](https://img.shields.io/badge/Wireshark-%233A6C44.svg?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
-![Metasploit](https://img.shields.io/badge/Metasploit-%23E4002B.svg?style=for-the-badge&logo=metasploit&logoColor=white)&nbsp;
-![Burp Suite](https://img.shields.io/badge/BurpSuite-%23F2F2F2.svg?style=for-the-badge&logo=burp&logoColor=black)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-%2302568B.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQLServer-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+    def motto(self):
+        return "Always learning. Always breaking things (legally) to build them better."
+```
 
-## 🧰 &nbsp;Version Controll & Tools 
+<details>
+<summary>🇪🇸 Sobre mí</summary>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+- 💻 Autodidacta apasionado por la **ciberseguridad**, el desarrollo **Full Stack** y el **Machine Learning**.
+- 🚩 Jugador de **CTF**, con interés tanto en hacking como en defensa.
+- 📚 Estudio Ingeniería de Sistemas en la Universidad Nacional de San Agustín (Perú).
+- 🌱 Siempre aprendiendo y al día con las últimas tendencias.
+- 🚀 Busco una pasantía u oportunidad laboral. [Mira mi currículum](https://drive.google.com/file/d/1iRgiC_WXrlsPTumRc3dHTg2LZStrzsXi/view?usp=sharing).
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</details>
 
-#
+<details>
+<summary>🇫🇷 À propos de moi</summary>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=yughiyami&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+- 💻 Passionné autodidacte de **cybersécurité**, développeur **Full Stack** et en **Machine Learning**.
+- 🚩 Joueur de **CTF**, passionné par le hacking et la défense.
+- 📚 J'étudie l'Ingénierie des Systèmes à l'Universidad Nacional de San Agustín (Pérou).
+- 🌱 Toujours en train d'apprendre et de suivre les dernières tendances.
+- 🚀 À la recherche d'un stage ou d'une opportunité professionnelle. [Découvrez mon CV](https://drive.google.com/file/d/1iRgiC_WXrlsPTumRc3dHTg2LZStrzsXi/view?usp=sharing).
 
-
-#
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## 📊  &nbsp;GitHub Analytics:
-<p align="center">
-  <a href="https://github.com/yughiyami">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yughiyami&theme=dark&hide_border=false&count_private=false&show_icons=true"/>
-  </a>
-  <a href="https://github.com/yughiyami">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yughiyami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </a>
-</p>
-
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yughiyami&theme=dark" alt="GitHub Streak" /></a></p>
-<!--
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=yughiyami&theme=react-dark&hide_border=true&area=true)
-
--->
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-enrique-marron-carcausto-84229925b/"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/yughiyami"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/danielmarronc/"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- </p>
- <p align="center">
-  <a href="mailto:dmarron@unsa.edu.pe"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/Yugiyami20"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-  <a href="https://x.com/Danielmarron19">
-  <img alt="twitter" title="Jaydeep Yadav X" src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
- </p>
-
-
-## 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmarron_33583)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://es.quora.com/profile/DANIEL-ENRIQUE-MARRON-CARCAUSTO)
-
-## 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dmarronv) 
-
-
-
+</details>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yughiyami&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🛠️ Tech stack
 
+**Languages & development**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center"> 
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg" 
-    alt="iscpatricio92" /> 
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,html,css,flutter,dart&perline=9" alt="Languages" />
 </p>
 
+**Cloud, design & tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,figma,git,github,vscode,jenkins,notion&perline=8" alt="Tooling" />
+</p>
+
+**Security**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+</p>
+
+**Data**
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yughiyami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yughiyami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=yughiyami&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
 <!--
-**yughiyami/yughiyami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  FEATURED PROJECTS: uncomment and replace REPO_1..REPO_4 with your best repos.
+  Recruiters look at this section first.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <a href="https://github.com/yughiyami/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yughiyami&repo=REPO_1&theme=tokyonight&hide_border=true" alt="REPO_1" /></a>
+  <a href="https://github.com/yughiyami/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yughiyami&repo=REPO_2&theme=tokyonight&hide_border=true" alt="REPO_2" /></a>
+</div>
 -->
+
+<!--
+  CTF / LABS: uncomment and fill in your real IDs.
+
+  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)](https://tryhackme.com/p/YOUR_USERNAME)
+  [![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/YOUR_ID)
+-->
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yughiyami&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yughiyami/yughiyami/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yughiyami/yughiyami/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/yughiyami/yughiyami/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 📜 Writing & support
+
+<p>
+  <a href="https://medium.com/@dmarron_33583"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://es.quora.com/profile/DANIEL-ENRIQUE-MARRON-CARCAUSTO"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" alt="Quora" /></a>
+  <a href="https://buymeacoffee.com/dmarronv"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:F76C6C&height=100&section=footer" width="100%" alt="footer" />
