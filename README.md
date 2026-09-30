@@ -69,6 +69,24 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**rag_medicinal_plants**](https://github.com/yughiyami/rag_medicinal_plants) | SIRCA-RAG: retrieval-augmented generation over medicinal-plant knowledge. Research paper (WAIMLAp 2026) with reproducible results. | Python · RAG · NLP · Docker |
+| [**izumi**](https://github.com/yughiyami/izumi) · [settlement](https://github.com/yughiyami/izumi-settlement) | Turns an order a small business cannot fulfil alone into a coordinated offer across its supplier network. The settlement layer runs atomic payments on Stellar. | TypeScript · Fastify · PostgreSQL · React · Stellar |
+| [**travel-recovery-agent-aleph**](https://github.com/yughiyami/travel-recovery-agent-aleph) · [live demo](https://travel-recovery-agent-aleph.vercel.app) | Auditable travel-disruption recovery agent with guarded payment previews. | Next.js · TypeScript · Vitest · Playwright |
+| [**RoboAI-SpamDetector**](https://github.com/yughiyami/RoboAI-SpamDetector) | TinyML robocall/spam detector running on an ESP32, with a Flutter companion app and a PyTorch training pipeline. | ESP32 · Flutter · PyTorch |
+| [**NEXTIA**](https://github.com/yughiyami/NEXTIA) | Offline "AI in a box" for rural schools in Peru: a local Gemma server that generates exercises and grades answers with instant feedback. Built at the NEXIA 2026 hackathon. | Next.js · LangGraph · Ollama · SQLite |
+| [**Deteccion_Soldadura**](https://github.com/yughiyami/Deteccion_Soldadura) | Computer-vision welding detection with YOLOv8. | Python · YOLOv8 · Docker |
+| [**proyecto-final (ShopFlow)**](https://github.com/yughiyami/proyecto-final) | Android e-commerce app with offline support, background sync and notifications. | Kotlin · Jetpack Compose · MVVM · Hilt · Room · Retrofit |
+| [**optimizador-horarios**](https://github.com/yughiyami/optimizador-horarios) | University timetable generator: pick courses, block hours, limit clashes and export the schedule as an image. | React · TypeScript · Vite · Tailwind |
+
+More in my [repositories](https://github.com/yughiyami?tab=repositories&type=source).
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📝Today's developer quotes :
 
 <div align="center">
