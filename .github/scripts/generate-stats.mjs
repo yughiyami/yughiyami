@@ -19,6 +19,26 @@ async function api(path) {
   return res.json();
 }
 
+// Commits by the user in one repo: read the page count from the Link header
+// of a per-page=1 request (works with the repo-scoped Actions token).
+async function commitsInRepo(name) {
+  const res = await fetch(`https://api.github.com/repos/${USER}/${name}/commits?author=${USER}&per_page=1`, { headers });
+  if (res.status === 409) return 0; // empty repository
+  if (!res.ok) throw new Error(`GitHub API commits ${name} -> ${res.status}`);
+  const last = /[?&]page=(\d+)>; rel="last"/.exec(res.headers.get("link") || "");
+  if (last) return Number(last[1]);
+  return (await res.json()).length;
+}
+
+// Cross-repo search may be refused for repo-scoped tokens; treat it as optional.
+async function searchCount(query) {
+  try {
+    return (await api(`/search/issues?q=${query}&per_page=1`)).total_count;
+  } catch {
+    return null;
+  }
+}
+
 async function ownedRepos() {
   const repos = [];
   for (let page = 1; ; page++) {
@@ -99,11 +119,10 @@ ${legend}`;
 
 const repos = await ownedRepos();
 
-const [commits, prs, issues] = await Promise.all([
-  api(`/search/commits?q=author:${USER}&per_page=1`),
-  api(`/search/issues?q=author:${USER}+type:pr&per_page=1`),
-  api(`/search/issues?q=author:${USER}+type:issue&per_page=1`),
-]);
+let commitTotal = 0;
+for (const repo of repos) commitTotal += await commitsInRepo(repo.name);
+const prs = await searchCount(`author:${USER}+type:pr`);
+const issues = await searchCount(`author:${USER}+type:issue`);
 
 const stars = repos.reduce((sum, r) => sum + r.stargazers_count, 0);
 
@@ -120,16 +139,18 @@ const topLangs = [...langBytes.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8
 mkdirSync("stats", { recursive: true });
 writeFileSync(
   "stats/stats.svg",
-  statsSvg([
-    ["Public repositories", repos.length],
-    ["Total commits", commits.total_count],
-    ["Pull requests", prs.total_count],
-    ["Issues", issues.total_count],
-    ["Stars earned", stars],
-  ])
+  statsSvg(
+    [
+      ["Public repositories", repos.length],
+      ["Commits (public repos)", commitTotal],
+      ["Pull requests", prs],
+      ["Issues", issues],
+      ["Stars earned", stars],
+    ].filter(([, value]) => value !== null)
+  )
 );
 writeFileSync("stats/languages.svg", languagesSvg(topLangs));
 
 console.log(
-  JSON.stringify({ repos: repos.length, commits: commits.total_count, prs: prs.total_count, issues: issues.total_count, stars, topLangs: topLangs.map(([n]) => n) })
+  JSON.stringify({ repos: repos.length, commits: commitTotal, prs, issues, stars, topLangs: topLangs.map(([n]) => n) })
 );
